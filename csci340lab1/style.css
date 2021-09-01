@@ -33,18 +33,19 @@ body {
 }
 
 .gallery-item .thumbnail {
-  border: 5px solid #fff;
+  border: 10px solid #fff;
+  width: 600px;
 }
 
 h1 {
   font-family: 'Roboto', sans-serif;
   color: rgb(216,218,190);
-	font-size: 32px;
+	font-size: 56px;
 }
 
 h2 {
   font-family: 'Roboto', sans-serif;
-	font-size: 56px;
+	font-size: 32px;
 }
 
 p {
