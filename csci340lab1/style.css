@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-  background-color: lightgray;
+  background-color: gray;
   background-position: center top;
   background-size: cover;
   margin: 0;
@@ -35,7 +35,7 @@ body {
 .gallery-item .thumbnail {
   border: 10px solid #fff;
   width: 600px;
-  height: 600px;
+  height: auto;
 }
 
 h1 {
