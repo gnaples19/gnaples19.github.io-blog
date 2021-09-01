@@ -30,11 +30,11 @@ body {
 
 .gallery-item {
   margin: 20px;
+  width: 600px;
 }
 
 .gallery-item .thumbnail {
   border: 10px solid #fff;
-  width: 600px;
 }
 
 h1 {
