@@ -3,6 +3,8 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+  background-color: lightblue;
+  background-image: url("https://s3.amazonaws.com/assets.inarkansas.com/81786/mystic-caverns-838.png");
 }
 
 h1 {
@@ -15,24 +17,8 @@ h2 {
 	font-size: 56px;
 }
 
-
-.hero {
-	padding: 250px 0;
-	margin: 30px;
-  font-family: 'Roboto', sans-serif;
-  background-image: url("https://s3.amazonaws.com/assets.inarkansas.com/81786/mystic-caverns-838.png");background-size: cover;
-color: #ffffff;
-}
-
-
 p {
   font-size: 2rem;
-}
-
-.hero a {
-	color: #00FFAA;
-	font-size: 1.25em;
-	text-decoration: none;
 }
 #footer {
   font-size: 0.75rem;
