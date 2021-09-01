@@ -1,0 +1,7 @@
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Roboto', sans-serif;
+  background-image: url("https://s3.amazonaws.com/assets.inarkansas.com/81786/mystic-caverns-838.png");background-size: cover;
+color: #ffffff;
+}
