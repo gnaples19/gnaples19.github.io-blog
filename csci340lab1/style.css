@@ -9,15 +9,17 @@ body {
   text-align: center;
   font-weight: 100;
   color: rgb(255,255,255);
+  background: #000;
 }
 
 .page-description {
   margin: 2px;
   text-align: center;
   padding: 10px;
+    background: white;
 }
 
-header{
+.sub-header{
   border: 2px solid #000;
   margin:10px;
 }
@@ -45,8 +47,6 @@ margin: 5px;
 figure{
   flex-flow: column;
   border: 10px solid #fff;
-  margin-left: 500px;
-  margin-right: 500px;
 }
 
 figcaption {
