@@ -61,10 +61,9 @@ h2 {
 }
 
 ul{
-  list-style-type: square;
-
   padding-left: 0px;
   padding-right: 0px;
+  border: 2px solid white;
 }
 
 p {
