@@ -36,6 +36,18 @@ body {
   border: 10px solid #fff;
 }
 
+figure{
+  flex-flow: column;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
 ul {
   list-style-type: square;
   padding: 0; /* Remove padding */
