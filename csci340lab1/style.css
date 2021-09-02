@@ -73,6 +73,7 @@ h3{
 }
 
 ul{
+  margin-top: 20px;
   list-style-type: none;
   /*border: 2px solid white;*/
   margin: 2px;
