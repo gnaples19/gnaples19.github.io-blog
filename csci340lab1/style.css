@@ -26,10 +26,14 @@ body {
   display: flex;
   flex-direction:column;
   justify-content:center;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .gallery-item {
   margin: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .gallery-item .thumbnail{
