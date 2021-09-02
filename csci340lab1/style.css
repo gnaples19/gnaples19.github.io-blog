@@ -43,6 +43,7 @@ body {
 
 figure{
   flex-flow: column;
+  max-width: 600px;
   border: 10px solid #fff;
 }
 
