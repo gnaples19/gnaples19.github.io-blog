@@ -80,7 +80,9 @@ ul{
   text-align: center;
   /*padding: 30px;*/
 }
-
+#ref{
+  font-size: 4rem;
+}
 li{
   border: 2px solid #000;
   background-color: white;
