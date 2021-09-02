@@ -66,6 +66,10 @@ ul{
   list-style-type: circle;
 }
 
+li{
+  border: 2px solid white;
+}
+
 p {
   font-family: 'Roboto', sans-serif;
   font-size: 2rem;
