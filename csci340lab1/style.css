@@ -34,7 +34,7 @@ body {
 
 .gallery-item .thumbnail{
   max-width: 600px;
-    max-height: 600px;
+  max-height: 600px;
 }
 
 figure{
