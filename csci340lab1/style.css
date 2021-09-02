@@ -18,6 +18,10 @@ body {
   padding: 30px;
 }
 
+.page-sub-description{
+margin: 5px;
+}
+
 .gallery {
   margin-top: 10px;
   display: flex;
@@ -58,13 +62,17 @@ h2 {
 	font-size: 24px;
 }
 
+h3{
+  font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+}
+
 ul{
   list-style-type: none;
   border: 2px solid white;
   margin: 2px;
   text-align: center;
   padding: 30px;
-  /*list-style-type: circle;*/
 }
 
 li{
