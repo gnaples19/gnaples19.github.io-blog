@@ -2,10 +2,9 @@ body {
 	height: 100%;
 	margin: 0;
 	text-align: center;
-	width: 100%;
+	/*width: 100%;*/
   background-color: lightgray;
   background-size: cover;
-  margin: 0;
   }
 
 .page-title {
@@ -48,7 +47,6 @@ figcaption {
     font: italic smaller sans-serif;
     padding: 3px;
     text-align: center;
-    max-width: 600px;
 }
 
 h1 {
@@ -62,8 +60,9 @@ h2 {
 	font-size: 24px;
 }
 
-#list{
+ul.list{
   border: 2px solid white;
+  list-style-type: circle;
 }
 
 p {
