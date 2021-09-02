@@ -30,6 +30,7 @@ body {
 
 .gallery-item {
   margin: 20px;
+  border: 10px solid #fff;
 }
 
 .gallery-item .thumbnail{
