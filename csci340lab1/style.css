@@ -37,7 +37,7 @@ body {
 }
 
 ul {
-  list-style-type: square; /* Remove bullets */
+  list-style-type: square;
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
 }
@@ -50,7 +50,7 @@ h1 {
 
 h2 {
   font-family: 'Roboto', sans-serif;
-	font-size: 32px;
+	font-size: 24px;
 }
 
 p {
