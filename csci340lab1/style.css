@@ -61,7 +61,7 @@ h2 {
 ul{
   border: 2px solid white;
   margin: 2px;
-  text-align: center;
+  text-align: left;
   padding: 30px;
   list-style-type: circle;
 }
