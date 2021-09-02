@@ -37,6 +37,10 @@ body {
   max-height: 600px;
 }
 
+#header{
+  padding-top: 5px;
+}
+
 figure{
   flex-flow: column;
   border: 10px solid #fff;
