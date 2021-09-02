@@ -37,6 +37,7 @@ body {
 }
 
 figure{
+  max-width: 600px;
   flex-flow: column;
   border: 10px solid #fff;
 }
