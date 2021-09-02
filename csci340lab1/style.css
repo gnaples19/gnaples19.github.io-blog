@@ -16,7 +16,6 @@ body {
 .page-description {
   text-align: center;
     background: white;
-    padding: 10px;
 }
 
 .sub-header{
@@ -82,8 +81,8 @@ ul{
 }
 
 li{
-  border: 2px solid white;
-  background-color: lightblue;
+  border: 2px solid #000;
+  background-color: white;
 }
 
 p {
