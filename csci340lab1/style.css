@@ -33,11 +33,13 @@ body {
 }
 
 .gallery-item .thumbnail{
-  border: 10px solid #fff;
+  max-width: 600px;
+    max-height: 600px;
 }
 
 figure{
   flex-flow: column;
+  border: 10px solid #fff;
 }
 
 figcaption {
