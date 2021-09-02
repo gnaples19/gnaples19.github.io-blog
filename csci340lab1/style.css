@@ -74,10 +74,10 @@ h3{
 
 ul{
   list-style-type: none;
-  border: 2px solid white;
+  /*border: 2px solid white;*/
   margin: 2px;
   text-align: center;
-  padding: 30px;
+  /*padding: 30px;*/
 }
 
 li{
