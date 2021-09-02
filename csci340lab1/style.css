@@ -37,13 +37,8 @@ body {
 }
 
 figure{
-  max-width: 620px;
   flex-flow: column;
   border: 10px solid #fff;
-}
-figure.content{
-  margin-left: auto;
-  margin-right: auto;
 }
 
 figcaption {
