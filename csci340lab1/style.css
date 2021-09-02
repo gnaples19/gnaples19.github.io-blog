@@ -36,6 +36,12 @@ body {
   border: 10px solid #fff;
 }
 
+ul.no-bullets {
+  list-style-type: square; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
 h1 {
   font-family: 'Roboto', sans-serif;
   color: rgb(216,218,190);
