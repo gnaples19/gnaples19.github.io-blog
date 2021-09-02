@@ -36,7 +36,7 @@ body {
   border: 10px solid #fff;
 }
 
-ul.no-bullets {
+ul {
   list-style-type: square; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
