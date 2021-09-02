@@ -45,8 +45,8 @@ margin: 5px;
 figure{
   flex-flow: column;
   border: 10px solid #fff;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
 }
 
 figcaption {
