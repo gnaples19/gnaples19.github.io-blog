@@ -22,24 +22,18 @@ body {
 }
 
 .gallery {
-  margin-top: 20px;
+  margin-top: 10px;
   display: flex;
   flex-direction:column;
   justify-content:center;
-  padding-left: 0px;
-  padding-right: 0px;
 }
 
 .gallery-item {
   margin: 20px;
-  padding-left: 0px;
-  padding-right: 0px;
 }
 
 .gallery-item .thumbnail{
   max-width: 600px;
-  padding-left: 0px;
-  padding-right: 0px;
 }
 
 figure{
@@ -55,12 +49,6 @@ figcaption {
     text-align: center;
 }
 
-ul {
-  list-style-type: square;
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
-}
-
 h1 {
   font-family: 'Roboto', sans-serif;
   color: rgb(216,218,190);
@@ -73,7 +61,10 @@ h2 {
 }
 
 ul{
+  list-style-type: square;
   border: 2px solid white;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 p {
