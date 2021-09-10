@@ -2,7 +2,7 @@
 $(document).ready(function() {
 $('.button').click(function() {
   $.ajax({
-    dataType: "json",
+    dataType: "jsonpCallback",
     jsonpCallback: "parseQuote",
     url: "https://breaking-bad-quotes.herokuapp.com/v1/quotes",
     success: function(results) {
