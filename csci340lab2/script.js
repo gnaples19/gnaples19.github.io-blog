@@ -6,7 +6,7 @@ $('.button').click(function() {
     //jsonpCallback: "parseQuote",
     url: "https://breaking-bad-quotes.herokuapp.com/v1/quotes",
     success: function(results) {
-      $('.qoute').text(results["qoute"]);
+      $('.qoute').text(results["qoutes"]);
     },
     error: function(xhr,status,error) {
       console.log(error);
