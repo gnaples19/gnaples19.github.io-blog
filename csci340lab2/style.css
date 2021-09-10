@@ -1,7 +1,7 @@
 .qoute{
-   min-height: 100px;
-    background-color: #FFFFFF;
-   border: 10px solid #F9F9F9;
+  min-height: 100px;
+  background-color: #FFFFFF;
+  border: 10px solid #F9F9F9;
   padding:10px;
 }
 
@@ -9,6 +9,7 @@
   background-color: gray;
   color: white;
   border-radius: 10px;
+  border-color: red;
   padding: 20px;
   text-align: center;
   margin: 90px 40px;
