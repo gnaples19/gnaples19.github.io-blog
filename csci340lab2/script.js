@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-$('.cookie').click(function() {
+$('.button').click(function() {
   $.ajax({
     dataType: "jsonp",
     jsonpCallback: "parseQuote",
