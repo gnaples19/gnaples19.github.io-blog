@@ -2,9 +2,6 @@ body{
   background-color: darkgray;
   margin: auto;
 }
-.container{
-  margin: auto;
-}
 
 #header{
 background-color: lightgray;
@@ -22,11 +19,6 @@ background-color: lightgray;
   background-color: lightgray;
 }
 
-h2.header{
-  padding-top: 1;
-}
-
-}
 h2{
   font-size: 50px;
   font-family: 'Raleway', sans-serif;
