@@ -35,8 +35,13 @@ h3{
   font-family: 'Raleway', sans-serif;
 }
 
-col-lg-6{
+col-sm-6{
   padding:20px;
+}
+
+div{
+padding-left: 10px;
+padding-right:10px;
 }
 img{
   margin-left: 10px;
