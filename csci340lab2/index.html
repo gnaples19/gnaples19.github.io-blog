@@ -4,20 +4,34 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+
   <!-- adapted from https://codepen.io/ohmycodeness/pen/KzdLRb -->
 </head>
   <body>
 
+    <div class="header">
+        <h2 id = "header">Random pictures</h2>
+      </div>
+
+      <div class="subheader">
+          <h3 id = "sub">Please enjoy these randomized photos of humans' favorite companions</h3>
+        </div>
+
     <div class="container">
       <div class="row">
-        <div class="col-lg-12">
-          <h1 id="qouteButton" class="button">Get Quote</h1>
-        </div>
-      </div>
-      
-      <div class="col-lg-12">
-            <p class="qoute">
-          </p>
+        <div class="col-lg-6">
+          <h1 id="dogButton" class="button">Click Here to See a Dog</h1>
+            <img id="dog" src="images/blank.jpeg" alt="blank screen" width="500">
+          </div>
+
+          <div class="col-lg-6">
+            <h1 id="catButton" class="button">Click Here to See a Cat</h1>
+                <img id="cat" src="images/blank.jpeg" alt="blank screen" width="500">
+            </div>
+          </div>
         </div>
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

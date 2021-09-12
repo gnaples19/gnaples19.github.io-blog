@@ -1,14 +1,52 @@
-.qoute{
-  min-height: 100px;
-  background-color: lightgray;
-  border: 10px solid red;
-  padding:5px;
+body{
+  background-color: darkgray;
+  margin: auto;
+}
+.container{
+  margin: auto;
 }
 
-p{
-  color: white;
+#header{
+background-color: lightgray;
+text-align: center;
+border: 5px solid white;
+background-color: lightgray;
 }
+
+#subheader{
+  background-color: lightgray;
+  text-align: center;
+  height: 50px;
+  border-top: 0px;
+  border: 5px solid white;
+  background-color: lightgray;
+}
+
+h2.header{
+  padding-top: 1;
+}
+
+}
+h2{
+  font-size: 50px;
+  font-family: 'Raleway', sans-serif;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+}
+
+col-lg-6{
+  padding:20px;
+}
+img{
+  margin-left: 10px;
+  min-height: 100px;
+  background-color: lightgray;
+  border: 5px solid white;
+}
+
 .button {
+  border: 5px solid white;
   background-color: gray;
   color: white;
   border-radius: 10px;
@@ -16,4 +54,6 @@ p{
   text-align: center;
   margin: 90px 40px;
   cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
 }
