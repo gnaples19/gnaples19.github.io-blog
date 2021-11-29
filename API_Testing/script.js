@@ -1,3 +1,6 @@
+import wixStores from 'wix-stores';
+import wixStoresBackend from 'wix-stores-backend';
+
 $(document).ready(function() {
   $('#fetchButton').click(function() {
     $.ajax({
